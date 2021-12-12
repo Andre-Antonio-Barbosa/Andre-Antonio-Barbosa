@@ -30,19 +30,6 @@ em mudar a vida das pessoas através da programação.
 . Curso de Angular 2 + Typescript básico ao avançado
 
 . SQL Server, analisa e consulta de dados
-## Sobre mim
 
-Apaixonado por tecnologia, inovação, e acredito muito
-em mudar a vida das pessoas através da programação.
-
-## Minhas atividades atuais 🖐️
-
-. AWS - Construindo API em Servelles
-
-. Arquitetura de Microserviços em Python
-
-. Curso de Angular 2 + Typescript básico ao avançado
-
-. SQL Server, analise e consulta de dados
 
 
