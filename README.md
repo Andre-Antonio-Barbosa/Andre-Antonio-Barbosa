@@ -25,11 +25,11 @@ em mudar a vida das pessoas através da programação.
 
 . AWS - Construindo API em Servelles
 
-. Arquitetura de Microserviços em Python
+. Construir programa utilizando arquitetura MVC em python flask que grava dados no banco dados e lista estes dados gravados.
 
-. Curso de Angular 2 + Typescript básico ao avançado
+. Trilha de estudo formação Front-End, construindo páginas web.
 
-. SQL Server, analisa e consulta de dados
+. SQL Server, analisa e consulta de dados.
 
 
 
