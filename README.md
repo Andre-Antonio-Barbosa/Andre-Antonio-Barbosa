@@ -25,7 +25,7 @@ em mudar a vida das pessoas através da programação.
 
 . AWS - Construindo API em Servelles
 
-. Construir programa utilizando arquitetura MVC em python flask que grava dados no banco dados e lista estes dados gravados.
+. Construindo programa utilizando arquitetura MVC em python flask que grava dados no banco dados e lista estes dados gravados.
 
 . Trilha de estudo formação Front-End, construindo páginas web.
 
