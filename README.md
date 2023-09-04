@@ -18,18 +18,20 @@
 
 ## Sobre mim
 
-Apaixonado por tecnologia e inovação digital, e acredito muito
-em mudar a vida das pessoas através da programação.
+Com mais de duas décadas de experiência profissional, estou em plena transição de carreira para o emocionante mundo da Tecnologia da Informação.
+Sou um desenvolvedor de aplicações web apaixonado por projetos online.
 
-## Minhas atividades atuais 🖐️
+## Minhas principais tecnologias: 🖐️
 
-. AWS - Construindo API em Servelles
+. HTML
 
-. Construindo programa utilizando arquitetura MVC em python flask que grava dados no banco dados e lista estes dados gravados.
+. CSS
 
-. Trilha de estudo formação Front-End, construindo páginas web.
+. Javascript.
 
-. SQL Server, analisa e consulta de dados.
+. React
+
+. MYSQL
 
 
 
